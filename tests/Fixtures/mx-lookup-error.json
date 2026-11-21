@@ -1,0 +1,1 @@
+{"status":406,"info":"MX Lookup Error","details":"There is no valid DNS MX record associated with this domain, or one or more MX entries lack an A record. Messages to this domain cannot be delivered.","freemail":false,"ratelimit_remain":95,"ratelimit_seconds":250}

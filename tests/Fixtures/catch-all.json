@@ -1,0 +1,1 @@
+{"status":207,"info":"OK - Catch-All Active","details":"The mail server for this domain accepts the address, but it also implements a catch-all policy. For this reason, it is not possible to determine if a mail account with this name actually exists, without sending a message and waiting for a reply.","freemail":false,"ratelimit_remain":98,"ratelimit_seconds":280}
